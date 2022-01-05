@@ -1,0 +1,27 @@
+.greenBorder {
+  box-shadow: 5px 5px 5px black;
+  color: white;
+  border: none;
+  text-align: center;
+  padding: 5px;
+  margin-left: 40%;
+  margin-right: 40%;
+  margin-bottom: 10%;
+  border-radius: 0.5em;
+  background: #8884d8;
+}
+
+.submitButton {
+  color: blue;
+  margin-top: 3%;
+  border: none;
+  border-color: aquamarine;
+  border-radius: 15px;
+  color: rgb(9, 89, 160);
+}
+
+.noBorder {
+  border: none;
+  text-align: center;
+  border-radius: 0.5em;
+}
